@@ -2,3 +2,9 @@
 h1 {
   color: purple;
 }
+h1,
+h2 {
+  font-family: "Poppins", sans-serif;
+}
+/* sans-serif = the backup font */
+/* 1rem = 16px, so 1.5rem = 24px */

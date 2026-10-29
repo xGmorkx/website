@@ -8,3 +8,10 @@ h2 {
 }
 /* sans-serif = the backup font */
 /* 1rem = 16px, so 1.5rem = 24px */
+/* style.css */
+.note {
+  color: crimson;
+}
+#hero {
+  background-color: #e6f4f3;
+}
